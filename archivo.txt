@@ -1,0 +1,1 @@
+La computacion concurrente es una forma de computo en la cual varios calculos se realizan concurrentemente, y no uno a la vez de orma secuencial
